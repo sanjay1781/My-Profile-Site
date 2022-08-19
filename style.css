@@ -325,3 +325,8 @@ form .btn2{
     color: #ff004f;
 }
 /*---------------css for small screens-------*/
+@media only screen and (max-width:500px){
+#header{
+    background-image: url(images/flower1.jpg) ;
+}
+}
